@@ -13,9 +13,9 @@
 
     # Timeservers
     networking.timeServers = [
-        server 0.africa.pool.ntp.org
-        server 1.africa.pool.ntp.org
-        server 2.africa.pool.ntp.org
-        server 3.africa.pool.ntp.org
+        "0.africa.pool.ntp.org"
+        "1.africa.pool.ntp.org"
+        "2.africa.pool.ntp.org"
+        "3.africa.pool.ntp.org"
     ];
 }
