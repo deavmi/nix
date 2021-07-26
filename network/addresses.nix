@@ -2,7 +2,7 @@
 
 {
     # Per-interface configuration
-    networkings.interfaces = {
+    networking.interfaces = {
         eth0 = {
             ipv6 = {
                 address = "fd00::1";
