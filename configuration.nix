@@ -22,9 +22,9 @@
       ./misc.nix
   ];  
 
-  # Pull the rest from GitHub
-  services.self-deploy.enable = true;
-  services.self-deploy.repository = "https://github.com/deavmi/nix";
+  # # Pull the rest from GitHub
+  # services.self-deploy.enable = true;
+  # services.self-deploy.repository = "https://github.com/deavmi/nix";
 
 
   # List packages installed in system profile. To search, run:
